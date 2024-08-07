@@ -1,9 +1,10 @@
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=VictorRaynor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/VictorRaynor/VictorRaynor/output/github-contribution-grid-snake-dark.svg)
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=VictorRaynor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
