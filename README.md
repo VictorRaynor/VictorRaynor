@@ -13,5 +13,3 @@
   <br/>
 </a>
 
-<!-- ![VictorRaynor's Graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorRaynor&custom_title=VictorRaynor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=9DAAF2&line=9DAAF2&point=9DAAF2&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorRaynor&custom_title=VictorRaynor's%20GitHub%20Activity%20Graph&bg_color=09131B&color=9DAAF2&line=FF652F&point=9DAAF2&area_color=FF652F&title_color=FF652F&area=true" alt="VictorRaynor's Graph" style="border: 1px solid #9DAAF2; border-radius: 6px;" />
