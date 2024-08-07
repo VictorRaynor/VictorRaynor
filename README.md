@@ -1,6 +1,6 @@
 
  
-  ![Snake animation](https://github.com/VictorRaynor/VictorRaynor/blob/output/dist/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/VictorRaynor/VictorRaynor/blob/output/github-contribution-grid-snake.svg)
  
 
 
