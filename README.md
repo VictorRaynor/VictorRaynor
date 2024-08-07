@@ -4,11 +4,11 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; height: 192px;"> 
+
     <a href="https://github.com/VictorRaynor">
       <img alt="VictorRaynor's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=VictorRaynor&show_icons=true&count_private=true&border_color=9DAAF2&bg_color=09131B&title_color=FF652F&icon_color=F8D866&text_color=FFFFFF" height="100%" width="49.5%"/>
     </a>
   <a href="https://github.com/VictorRaynor">
     <img alt="VictorRaynor's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VictorRaynor&langs_count=8&layout=compact&border_color=9DAAF2&bg_color=09131B&text_color=FFFFFF&title_color=FF652F&icon_color=F8D866" height="100%" width="49.5%"/>
   </a>
-</div>
+
