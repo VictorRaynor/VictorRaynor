@@ -8,10 +8,6 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
 
- 
-  ![Snake animation](https://github.com/VictorRaynor/VictorRaynor/blob/output/github-contribution-grid-snake.svg)
- 
-
 
 
 <div>
