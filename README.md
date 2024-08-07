@@ -1,8 +1,11 @@
 
 
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/VictorRaynor/VictorRaynor/output/github-contribution-grid-snake-dark.svg)
 
-
-
+[![Trophies](https://github-profile-trophy.vercel.app/?username=VictorRaynor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+##
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
 
 <div>
@@ -15,12 +18,9 @@
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20and%20Mobile%20developer;Mid-level%20AI%20developer;Honest%20Blockchain%20developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
-## Feeding...
-![Snake animation](https://raw.githubusercontent.com/VictorRaynor/VictorRaynor/output/github-contribution-grid-snake-dark.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VictorRaynor&label=Profile%20views&color=0e75b6&style=flat" alt="VictorRaynor" /> </p>
-[![Trophies](https://github-profile-trophy.vercel.app/?username=VictorRaynor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VictorRaynor" alt="VictorRaynor" /></a> </p>
 
 - 🔭 I’m currently working on remote
