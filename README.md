@@ -19,6 +19,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20and%20Mobile%20developer;Mid-level%20AI%20developer;Honest%20Blockchain%20developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 
+<img src="https://raw.githubusercontent.com/VictorRaynor/VictorRaynor/output/github-contribution-grid-snake-dark.svg" alt="VictorRaynor">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VictorRaynor&label=Profile%20views&color=0e75b6&style=flat" alt="VictorRaynor" /> </p>
 
 <p align="left"> 
